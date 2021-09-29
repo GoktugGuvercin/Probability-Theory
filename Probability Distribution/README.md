@@ -10,10 +10,23 @@
   problem domain like rolling a dice, discrete random variable is used. However, when we try to measure and take a record of amount of rainfalls in specific region
   we face infinite number of cases. Hence, such problems are represented by continuous random variable. 
   
-  <p align="center">
+<p align="center">
   <img src=https://github.com/GoktugGuvercin/Probability-Theory/blob/main/Probability%20Distribution/rolling%20a%20dice.png />
 </p>
 
 ## Probability Distribution
+
+* If we determine all possible events in problem domain, and compute the probability of occurrence of all those events, we become capable of creating probability
+  distribution of this domain. In other words, probability distribution is nothing but a map that illustrates what events can take place and what chance of their
+  occurrence is. This is quite easy process for discrete random variables due to the limited number of cases in the domain, but not possible for continuous random
+  variables. However, by collecting so many number of observations from problem domain and then examining their frequency of distribution on value range, we can
+  approximate its probability distribution. 
+
+* Probability distribution can be denoted with a curve or a function. Distribution functions can be of two different types, which are probability mass and
+  probability density function for discrete and continuous random variables respectively. In the figure below, probability distribution of total amount of rainfalls
+  in terms of mm for specific region is illustrated. It behaves like typical gaussian distribution. 
   
+<p align="center">
+  <img src=https://github.com/GoktugGuvercin/Probability-Theory/blob/main/Probability%20Distribution/rainfalls.png />
+</p>
   
