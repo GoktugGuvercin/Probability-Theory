@@ -11,7 +11,7 @@
   we face infinite number of cases. Hence, such problems are represented by continuous random variable. 
   
 <p align="center">
-  <img src=https://github.com/GoktugGuvercin/Probability-Theory/blob/main/Probability%20Distribution/rolling%20a%20dice.png />
+  <img src="https://github.com/GoktugGuvercin/Probability-Theory/blob/main/Probability%20Distribution/rolling%20a%20dice.png" width="700" height="316" />
 </p>
 
 ## Probability Distribution
@@ -27,6 +27,6 @@
   in terms of mm for specific region is illustrated. It behaves like typical gaussian distribution. 
   
 <p align="center">
-  <img src=https://github.com/GoktugGuvercin/Probability-Theory/blob/main/Probability%20Distribution/rainfalls.png />
+  <img src="https://github.com/GoktugGuvercin/Probability-Theory/blob/main/Probability%20Distribution/rainfalls.png" width="700" height="486" />
 </p>
   
