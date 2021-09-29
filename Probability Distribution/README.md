@@ -39,13 +39,18 @@
   from that value range. Hence, we are unable to determine the boundaries between which random numbers will be dispersed except for uniform distribution, since its
   parameters are that boundaries themselves. There exists infinite number of primitive sections on that value range, and each of them, denoted with dx, corresponds
   to particular probability value. These probability values actually decides the frequency of sampled numbers. The ones with higher probability have higher chance
-  to be sampled.
+  to be sampled. In the figure below, some well-known distributions are illustrated. **Their plot can be also obtained by source code distributions.py**
+  
+<p align="center">
+  <img src="https://github.com/GoktugGuvercin/Probability-Theory/blob/main/Probability%20Distribution/distributions.png" width="1000" height="370" />
+</p>
+  
 
 ### Parameters of Well-Known Distributions
 
 Name | Parameters
 --------- | -------------
-Gaussian  | Mean and Variance
-Uniform   | Low and Hight
+Gaussian | Mean and Variance
+Uniform | Low and Hight
 Chi-Square | Degree of Freedom
 
