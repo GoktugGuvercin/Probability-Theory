@@ -30,3 +30,22 @@
   <img src="https://github.com/GoktugGuvercin/Probability-Theory/blob/main/Probability%20Distribution/rainfalls.png" width="700" height="486" />
 </p>
   
+## Random Number Generator 
+  
+* Random number generators generally benefit from well-known probability distributions like gaussian, chi-square, or uniform. In that way, probability distributions
+  are actually not only the output of random events in problem domains, but they can be also used as input for a particular purpose. What is confusing in this point
+  is how they can be deployed for the generation of random numbers. In fact, each probability distribution has special parameters characterizing its density
+  function. Depending on the arguments passed to those parameters, a problem domain (value range) is defined for that distribution, and random numbers are sampled
+  from that value range. Hence, we are unable to determine the boundaries between which random numbers will be dispersed except for uniform distribution, since its
+  parameters are that boundaries themselves. There exists infinite number of primitive sections on that value range, and each of them, denoted with dx, corresponds
+  to particular probability value. These probability values actually decides the frequency of sampled numbers. The ones with higher probability have higher chance
+  to be sampled.
+
+### Parameters of Well-Known Distributions
+
+Name | Parameters
+--------- | -------------
+Gaussian  | Mean and Variance
+Uniform   | Low and Hight
+Chi-Square | Degree of Freedom
+
