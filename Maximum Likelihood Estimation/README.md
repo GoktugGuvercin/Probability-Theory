@@ -20,5 +20,5 @@ parametrized with θ. Since all collected observations are indipendent and ident
 from gaussian distribution parametrized with θ is equal to the product of their individual conditional probabilities. 
 
 <p align="center">
-  <img src="https://github.com/GoktugGuvercin/Probability-Theory/blob/main/Maximum%20Likelihood%20Estimation/product%20of%20sample%20probabilities.png" width="500" height="279" />
+  <img src="https://github.com/GoktugGuvercin/Probability-Theory/blob/main/Maximum%20Likelihood%20Estimation/product%20of%20sample%20probabilities.png" width="400" height="223" />
 </p>
